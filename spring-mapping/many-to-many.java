@@ -34,7 +34,7 @@ public class Course {
     // getters and setters
 }
 
-
+// tables created
 CREATE TABLE student (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255)
